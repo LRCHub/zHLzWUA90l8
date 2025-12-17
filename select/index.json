@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "MOON-VINE (ASH ver.)",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-17T17:15:21.408660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moon-Vine (Ash Ver.)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_Moon-Vine_(Ash_Ver.)_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOON-VINE (ASH ver.)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_MOON-VINE_(ASH_ver.)_Orangestar.txt"
+    }
+  ]
+}
